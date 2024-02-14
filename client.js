@@ -22,13 +22,13 @@ let array2 = document.querySelector("#second-array");
 let arrayOne = "This is Apple" 
 arry1.textContent = arrayOne;
 
-let arrayTwo = "Hello,apple"
+let arrayTwo = "6+3"
 array2.textContent = arrayTwo;
 
 let object1 = document.querySelector("#first-object");
 let object2 = document.querySelector("#second-object");
 
-let objectOne = "Google"
+let objectOne = "-,+,*"
 object1.textContent = objectOne;
 
 let obejectTwo = "Yes, this is website";
