@@ -19,10 +19,10 @@ number2.textContent= numberTwo;
 let arry1 = document.querySelector("#first-array");
 let array2 = document.querySelector("#second-array");
 
-let arrayOne = "This is Apple" 
+let arrayOne = "6 +3" 
 arry1.textContent = arrayOne;
 
-let arrayTwo = "6+3"
+let arrayTwo = "9"
 array2.textContent = arrayTwo;
 
 let object1 = document.querySelector("#first-object");
